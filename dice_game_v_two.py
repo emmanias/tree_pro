@@ -15,6 +15,11 @@ def roll_the_die(number_of_dice):
             i += 1
     return the_dice
 
+
+#we will need comprehension too
+#What is going on
+
+
 #the box counter
 def count_the_dice(dice_given):
     one_box = 0
@@ -200,4 +205,4 @@ def game_man():
 game_man()
 
 
-#Make further changes later
+
