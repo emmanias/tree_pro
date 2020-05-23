@@ -1,5 +1,8 @@
 import random
 
+#This is
+# Six Dice game python project
+
 #roll dice
 def roll_the_die(number_of_dice):
     the_dice =[] #create the dice table
